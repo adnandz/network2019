@@ -1,0 +1,11 @@
+/home/adnan/neum/demo01/bin/Debug/netcoreapp2.2/demo01.deps.json
+/home/adnan/neum/demo01/bin/Debug/netcoreapp2.2/demo01.runtimeconfig.json
+/home/adnan/neum/demo01/bin/Debug/netcoreapp2.2/demo01.runtimeconfig.dev.json
+/home/adnan/neum/demo01/bin/Debug/netcoreapp2.2/demo01.dll
+/home/adnan/neum/demo01/bin/Debug/netcoreapp2.2/demo01.pdb
+/home/adnan/neum/demo01/obj/Debug/netcoreapp2.2/demo01.csprojAssemblyReference.cache
+/home/adnan/neum/demo01/obj/Debug/netcoreapp2.2/demo01.csproj.CoreCompileInputs.cache
+/home/adnan/neum/demo01/obj/Debug/netcoreapp2.2/demo01.AssemblyInfoInputs.cache
+/home/adnan/neum/demo01/obj/Debug/netcoreapp2.2/demo01.AssemblyInfo.cs
+/home/adnan/neum/demo01/obj/Debug/netcoreapp2.2/demo01.dll
+/home/adnan/neum/demo01/obj/Debug/netcoreapp2.2/demo01.pdb
