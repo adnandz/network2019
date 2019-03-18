@@ -1,0 +1,11 @@
+C:\Users\ad\OneDrive\Network2019\network2019\demo02\bin\Debug\netcoreapp2.2\demo02.deps.json
+C:\Users\ad\OneDrive\Network2019\network2019\demo02\bin\Debug\netcoreapp2.2\demo02.runtimeconfig.json
+C:\Users\ad\OneDrive\Network2019\network2019\demo02\bin\Debug\netcoreapp2.2\demo02.runtimeconfig.dev.json
+C:\Users\ad\OneDrive\Network2019\network2019\demo02\bin\Debug\netcoreapp2.2\demo02.dll
+C:\Users\ad\OneDrive\Network2019\network2019\demo02\bin\Debug\netcoreapp2.2\demo02.pdb
+C:\Users\ad\OneDrive\Network2019\network2019\demo02\obj\Debug\netcoreapp2.2\demo02.csprojAssemblyReference.cache
+C:\Users\ad\OneDrive\Network2019\network2019\demo02\obj\Debug\netcoreapp2.2\demo02.csproj.CoreCompileInputs.cache
+C:\Users\ad\OneDrive\Network2019\network2019\demo02\obj\Debug\netcoreapp2.2\demo02.AssemblyInfoInputs.cache
+C:\Users\ad\OneDrive\Network2019\network2019\demo02\obj\Debug\netcoreapp2.2\demo02.AssemblyInfo.cs
+C:\Users\ad\OneDrive\Network2019\network2019\demo02\obj\Debug\netcoreapp2.2\demo02.dll
+C:\Users\ad\OneDrive\Network2019\network2019\demo02\obj\Debug\netcoreapp2.2\demo02.pdb
