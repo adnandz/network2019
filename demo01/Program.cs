@@ -27,7 +27,7 @@ namespace demo01
         //  2. Rješavanje problema "nedostajećih vrijednosti" u koloni Age 
         //  3. OneHotEncoding kodiranje (kategorizacija podataka)
         //  4. Spajanje svih kolona koje će se koristiti u "Features" vektor
-        //  5. Dodavanje algoritma učenje (konkretno FastForest)
+        //  5. Dodavanje algoritma učenje (konkretno FastTree)
         //  6. Poziv algoritma
         var pipeline = mlContext.Transforms.DropColumns(
                     nameof(TrainingInputModel.PassengerId),
@@ -61,7 +61,7 @@ namespace demo01
                     nameof(TrainingInputModel.ParentsOrChildren), 
                     nameof(TrainingInputModel.Embarked)))
 
-                .Append(mlContext.BinaryClassification.Trainers.FastForest(nameof(TrainingInputModel.Survived)))
+                .Append(mlContext.BinaryClassification.Trainers.FastTree(nameof(TrainingInputModel.Survived)))
 
                 .Fit(trainingData);
 
