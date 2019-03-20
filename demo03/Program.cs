@@ -1,5 +1,4 @@
-﻿
-using ImageClassification.ModelScorer;
+﻿using ImageClassification.ModelScorer;
 using System;
 using System.IO;
 
