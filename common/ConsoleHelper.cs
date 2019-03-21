@@ -13,15 +13,15 @@ namespace Common
         public static void PrintPrediction(string prediction)
         {
             Console.WriteLine($"*************************************************");
-            Console.WriteLine($"Predicted : {prediction}");
+            Console.WriteLine($"Predviđeno : {prediction}");
             Console.WriteLine($"*************************************************");
         }
 
         public static void PrintRegressionPredictionVersusObserved(string predictionCount, string observedCount)
         {
             Console.WriteLine($"-------------------------------------------------");
-            Console.WriteLine($"Predicted : {predictionCount}");
-            Console.WriteLine($"Actual:     {observedCount}");
+            Console.WriteLine($"Predviđeno : {predictionCount}");
+            Console.WriteLine($"Stvarno:     {observedCount}");
             Console.WriteLine($"-------------------------------------------------");
         }
 
@@ -144,10 +144,10 @@ namespace Common
         public static void PrintClusteringMetrics(string name, ClusteringMetrics metrics)
         {
             Console.WriteLine($"*************************************************");
-            Console.WriteLine($"*       Metrics for {name} clustering model      ");
+            Console.WriteLine($"*       Metrike za {name} klastering model      ");
             Console.WriteLine($"*------------------------------------------------");
             Console.WriteLine($"*       AvgMinScore: {metrics.AvgMinScore}");
-            Console.WriteLine($"*       DBI is: {metrics.Dbi}");
+            Console.WriteLine($"*       DBI : {metrics.Dbi}");
             Console.WriteLine($"*************************************************");
         }
 

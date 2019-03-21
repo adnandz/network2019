@@ -41,7 +41,7 @@ namespace demo02
                                                 hasHeader:true,
                                                 separatorChar:'\t');
 
-            //1. Razdravanje podataka : TrainingDataset (80%) i TestDataset (20%)
+            //1. Razdvajanje podataka : TrainingDataset (80%) i TestDataset (20%)
             TrainCatalogBase.TrainTestData trainTestData = mlContext.Clustering.TrainTestSplit(fullData, testFraction: 0.2);
             trainingDataView = trainTestData.TrainSet;
             testingDataView = trainTestData.TestSet;
